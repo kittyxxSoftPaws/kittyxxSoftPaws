@@ -1,4 +1,4 @@
-# kittyxxSoftPaws 🐱
+# kittyxxSoftPaws 
 * Email: kittyxxsoftpaws@proton.me 
 * Discord: kittyxxSoftpaws#1708
 * Keybase: [kittyxxsoftpaws](https://keybase.io/kittyxxsoftpaws)
