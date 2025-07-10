@@ -1,6 +1,6 @@
 # kittyxxSoftPaws 
 * Discord: kittyxxSoftpaws#1708
-* Twitter: [kitty softpaws🔺⚛️⚡️ (@kittykat116644) / Twitter](https://twitter.com/kittykat116644)
+* Twitter: [kitty softpaws (@kittykat116644) / Twitter](https://twitter.com/kittykat116644)
 
 
 <!---
