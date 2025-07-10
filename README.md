@@ -1,10 +1,6 @@
 # kittyxxSoftPaws 
-* Website: https://www.softpaws.xyz
-* Email: kittyxxsoftpaws@proton.me 
 * Discord: kittyxxSoftpaws#1708
-* Keybase: [kittyxxsoftpaws](https://keybase.io/kittyxxsoftpaws)
 * Twitter: [kitty softpaws🔺⚛️⚡️ (@kittykat116644) / Twitter](https://twitter.com/kittykat116644)
-* Echelon Validator: [SoftPaws](https://ping.pub/echelon/staking/echelonvaloper15z5dphcvgvtd9c0q7e7wau782ac0hzengnx0ug)
 
 
 <!---
